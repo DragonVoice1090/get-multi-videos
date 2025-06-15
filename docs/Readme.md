@@ -17,5 +17,5 @@ Step1_input.exe
 
 ## 示例
 
-[输入示例](test\test.png)
+![输入示例](test/test.png)
 
